@@ -5,7 +5,7 @@ CMSC 197 : Machine Learning
 
 This project was the output of kjsmet and me 
 
-##It is about Predicting Sentiments on Shopee Reviews Using Machine Learning Models.
+## It is about Predicting Sentiments on Shopee Reviews Using Machine Learning Models.
 
 
 Data set was taken from user BwandoWando on kaggle.com titled SHOPEE_REVIEWS. 
